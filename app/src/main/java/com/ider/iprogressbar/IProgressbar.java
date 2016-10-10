@@ -13,6 +13,7 @@ import android.view.View;
 
 /**
  * Created by ider-eric on 2016/9/21.
+ * This is test for git
  */
 
 public class IProgressbar extends View {
