@@ -2,5 +2,7 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ffdcb9</color>
+    <color name="colorLightBlue">#0099ff</color>
+    <color name="colorDownloadOver">#06d1a2</color>
 </resources>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IProgressbar</string>
+    <string name="progress_percent">已下载%s</string>
+
+    <string-array name="titles">
+        <item name="win10">Win10</item>
+        <item name="tencent">腾讯应用宝</item>
+    </string-array>
 </resources>
